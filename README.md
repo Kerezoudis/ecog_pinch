@@ -18,6 +18,17 @@ The data are contained in the gestures folder.
 Please refer to the document in the repository titled "pk_sharing_statement" for more details on the data sharing agreement, 
 the structure of the curated data and the pipeline for running the analysis on your personal computer. 
 
+The curated data are available for download at Open Science Framework. 
+link: https://osf.io/jy6ve/?view_only=b5f4c3b93df641a6add0ebc115047900 
+
+The data are organized into two main folders: (1) fingerflex and (2) pinch, corresponding to the two behavioral paradigms. 
+Each folder contains a sub-folder, named after the 2-letter code for each subject. 
+Each sub-folder contains the following components: 
+  - a file named "_fingerflex.mat" or "_pinch.mat", that contains the intracranial neural data, the data glove behavioral vector and the stimulus vector.
+  - a file named "_beh.mat.", that contains the segmented behavioral data.
+  - a file named "_brain.mat", that contains the 3D electrode coordinated in native space, and a struct variable/surface object, with vertices and faces, to plot 3D brain renderings.
+  - a folder named "figs", where figures from running the master file, will be saved at. 
+
 If you have any questions or concerns, please email me at 
 kerezoudis.panagiotis@mayo.edu. 
 
