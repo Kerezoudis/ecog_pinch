@@ -7,9 +7,8 @@ flexion in patients with medically refractory epilepsy implanted with subdural e
 grids.
 
 If you use the code in your publications, please cite the following bibliography: 
-- Kerezoudis, Panagiotis, Michael A. Jensen, Harvey Huang, Jeffrey G. Ojemann, Bryan T. Klassen,
-  Nuri F. Ince, Dora Hermes, and Kai J. Miller. "Spatial and spectral changes in cortical surface
-  Potentials during pinching versus Thumb and index finger flexion." Neuroscience Letters (2024): 138062.
+- Kerezoudis, P., Jensen, M.A., Huang, H., Ojemann, J.G., Klassen, B.T., Ince, N.F., Hermes, D. and Miller, K.J., 2024.
+  Spatial and spectral changes in cortical surface Potentials during pinching versus Thumb and index finger flexion. Neuroscience Letters, p.138062.
 - Miller, K. J. (2019). A library of human electrocorticographic data and analyses. Nature human behaviour, 3(11), 1225-1235.
 
 All the data used for analysis are available in the open access library, available at https://searchworks.stanford.edu/view/zk881ps0522. 
